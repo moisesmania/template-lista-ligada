@@ -3,8 +3,7 @@ import os.path
 import sys
 from pytest import mark, raises
 from no import No
-# from lista_ligada import ListaLigada
-from lista_ligada_gabarito import ListaLigada
+from lista_ligada import ListaLigada
 
 # ---- INÍCIO: teste método is_empty()
 
